@@ -1,0 +1,18 @@
+a {
+   color: rgb(60, 60, 184);
+   text-decoration: none;
+}
+.recipes {
+    font-family: Verdana, Geneva, Tahoma, sans-serif, Geneva, Tahoma, sans-serif;
+    font-size: 20px;
+}
+
+.recipes li {
+    margin-bottom: 5px;
+}
+
+h1 {
+    text-align: center;
+}
+
+
