@@ -7,12 +7,19 @@ a {
     font-size: 20px;
 }
 
-.recipes li {
+li {
     margin-bottom: 5px;
 }
 
 h1 {
     text-align: center;
+}
+
+img {
+    margin: auto;
+    display: block;
+    width: 720px;
+    height: auto;
 }
 
 
